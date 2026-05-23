@@ -1,0 +1,16 @@
+{
+  "downloadedAt": "2026-05-22T18:56:16.468Z",
+  "source": "https://ak4y.github.io",
+  "output": "C:\\Users\\admin\\Documents\\GitHub\\emotes",
+  "ok": 542,
+  "skip": 0,
+  "miss": 788,
+  "total": 1330,
+  "githubPagesHint": "Push folder này lên repo GitHub → Settings → Pages → branch main / root",
+  "menuUrls": {
+    "emote": "https://<username>.github.io/emotes/emote_indir/id=%s.webp",
+    "expression": "https://<username>.github.io/emotes/expression2_indir/value=%s.webp",
+    "walk": "https://<username>.github.io/emotes/walks_indir/value=%s.webp",
+    "dance": "https://<username>.github.io/emotes/dance_indir/dict=%s==anim=%s.webp"
+  }
+}
